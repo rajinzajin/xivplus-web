@@ -1,0 +1,9 @@
+{
+  "..\\..\\node_modules\\.pnpm\\bson@5.2.0\\node_modules\\bson\\lib\\bson.mjs -> crypto": {
+    "id": 618,
+    "files": [
+      "static/chunks/b5e3e0b1.0ffb8a4c7a4f1e23.js",
+      "static/chunks/463.32438295ed2f6ff4.js"
+    ]
+  }
+}
