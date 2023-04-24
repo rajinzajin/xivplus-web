@@ -1,9 +1,9 @@
 {
   "/_app": "pages/_app.js",
-  "/404": "pages/404.html",
-  "/api/datacenters": "pages/api/datacenters.js",
   "/_document": "pages/_document.js",
+  "/404": "pages/404.html",
   "/api/hello": "pages/api/hello.js",
+  "/api/datacenters": "pages/api/datacenters.js",
   "/api/market": "pages/api/market.js",
   "/api/worlds": "pages/api/worlds.js",
   "/": "pages/index.html",

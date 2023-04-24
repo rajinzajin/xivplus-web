@@ -68,7 +68,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports.addBasePath = addBasePath;
 var _addPathPrefix = __webpack_require__(1751);
 var _normalizeTrailingSlash = __webpack_require__(7848);
-const basePath =  false || "";
+const basePath = "/xivplus-web" || 0;
 function addBasePath(path, required) {
     if (false) {}
     return (0, _normalizeTrailingSlash).normalizePathTrailingSlash((0, _addPathPrefix).addPathPrefix(path, basePath));
@@ -119,7 +119,7 @@ Object.defineProperty(exports, "__esModule", ({
     value: true
 }));
 exports.getDomainLocale = getDomainLocale;
-const basePath = (/* unused pure expression or super */ null && ( false || ""));
+const basePath = (/* unused pure expression or super */ null && ("/xivplus-web" || 0));
 function getDomainLocale(path, locale, locales, domainLocales) {
     if (false) {} else {
         return false;
